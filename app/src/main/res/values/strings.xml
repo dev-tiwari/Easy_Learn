@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Easy Learn</string>
+    <string name="login_email_hint">Email Id</string>
+    <string name="login_password_hint">Password</string>
+    <string name="already_nhave_an_naccount">Already\nhave an\nAccount?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_sign_up_here">New User? Sign Up Here</string>
+    <string name="or">OR</string>
+    <string name="wants_to_njoin_us_nsign_up_now">Wants to\nJoin Us\nSign Up Now</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="want_to_njoin_us_nregister_nhere">Want to\nJoin Us!\nRegister\nHere</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register_using">Register Using</string>
+    <string name="register">Register</string>
+    <string name="user_name">User Name</string>
+    <string name="easy_learn">Easy Learn</string>
+    <string name="we_ensure_better_education_for_upgrading_skills_and_development">We Ensure Better Education for Upgrading Skill and Development.</string>
+    <string name="sign_in_using">Sign In Using</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="learn_it">Learn It</string>
+    <string name="give_the_quiz">Give the Quiz</string>
+    <string name="instructions">Instructions</string>
+    <string name="get_report">Get Report</string>
+    <string name="home">Home</string>
+    <string name="rank">Rank</string>
+    <string name="profile">Profile</string>
+    <string name="progress">Progress</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="paytm_phone_number">Paytm Phone Number</string>
+    <string name="_75_000_coins_are_required_for_withdrawal">75,000 coins are required for withdrawal</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="_0">0</string>
+    <string name="current_coins">Current Coins</string>
+    <string name="know_your_knowledge">Know Your Knowledge</string>
+    <string name="pass">*********</string>
+    <string name="wanna_edit_your_profile">Wanna Edit your Profile</string>
+    <string name="quiz">Quiz</string>
+    <string name="wallet">Wallet</string>
+</resources>
